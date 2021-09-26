@@ -1,7 +1,12 @@
 //Sep 26 08:08pm IST
 
 # TodoAndroidApp
-A TodoApp for Android!
+###### A TodoApp for Android!
+
+## Open Source 
+
+![1_JLYlSLSK8-AZo8gt9UdYqA](https://user-images.githubusercontent.com/54206927/134813022-f64da0b7-78f1-4715-9b56-37fa3498f00b.jpeg =250x250)
+
 
 Built with React-Native
 ![1200px-React-icon svg](https://user-images.githubusercontent.com/54206927/134812787-5c938e34-9b67-4704-8d5c-555b1cddeff6.png)
