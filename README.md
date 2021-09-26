@@ -5,6 +5,7 @@
 A TodoApp for Android!
 
 Built with React-Native
+![1200px-React-icon svg](https://user-images.githubusercontent.com/54206927/134812787-5c938e34-9b67-4704-8d5c-555b1cddeff6.png)
 
 
 
