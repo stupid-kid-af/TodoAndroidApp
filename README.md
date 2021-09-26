@@ -5,7 +5,7 @@
 
 ## Open Source 
 
-![1_JLYlSLSK8-AZo8gt9UdYqA](https://user-images.githubusercontent.com/54206927/134813022-f64da0b7-78f1-4715-9b56-37fa3498f00b.jpeg =250x250)
+![1_JLYlSLSK8-AZo8gt9UdYqA](https://user-images.githubusercontent.com/54206927/134813022-f64da0b7-78f1-4715-9b56-37fa3498f00b.jpeg)
 
 
 Built with React-Native
