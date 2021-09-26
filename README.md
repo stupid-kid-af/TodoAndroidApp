@@ -1,6 +1,5 @@
 //Sep 26 08:08pm IST
 
-
 # TodoAndroidApp
 A TodoApp for Android!
 
@@ -16,7 +15,10 @@ Screenshots
 ![WhatsApp Image 2021-09-26 at 8 02 27 PM (1)](https://user-images.githubusercontent.com/54206927/134812243-71a2d0e2-43fe-455e-b1d3-a42655b64b91.jpeg)
 
 
-Telegram Group : Coming Soon..
+## Telegram Support => Coming Soon..
+
+![Telegram_button](https://user-images.githubusercontent.com/54206927/134812886-c0fc1277-c7c6-40cd-b3c2-3e49dcd310e8.png)
+
 
 
 ###### What to add (aka Roadmap)
