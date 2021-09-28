@@ -1,3 +1,6 @@
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/stupid-kid-af/TodoAndroidApp/total">
+
+
 //Sep 26 08:08pm IST
 
 # TodoAndroidApp
