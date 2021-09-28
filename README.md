@@ -1,4 +1,4 @@
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/stupid-kid-af/TodoAndroidApp/total">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/stupid-kid-af/TodoAndroidApp/total">  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/stupid-kid-af/TodoAndroidApp"> 
 
 
 //Sep 26 08:08pm IST
