@@ -37,4 +37,4 @@
 1. Share Button
 2. Change UI
 3. Time with Date
-4. You tell me
+4. U tell me
